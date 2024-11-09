@@ -33,5 +33,11 @@ Langkah 6: Implementasi filter carousel
 
 Hasil: 
 
-<video controls src="WhatsApp Video 2024-11-09 at 17.44.07_b7aa2850.mp4" title="Title"></video>
+<video controls src="WhatsApp Video 2024-11-09 at 17.44.07_b7aa2850.mp4" title="filter"></video>
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
 
